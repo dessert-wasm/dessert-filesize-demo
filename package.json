@@ -1,0 +1,37 @@
+{
+  "name": "dessert-demo",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bulma": "^0.7.5",
+    "dessert-filesize": "^1.0.3",
+    "filesize": "^5.0.1",
+    "purecss": "^1.0.1",
+    "react": "^16.10.2",
+    "react-app-rewired": "^2.1.3",
+    "react-bulma-components": "^3.1.2",
+    "react-dom": "^16.10.2",
+    "react-scripts": "3.0.1",
+    "wasm-loader": "^1.3.0"
+  },
+  "scripts": {
+    "start": "react-app-rewired start",
+    "build": "react-app-rewired build",
+    "eject": "react-app-rewired eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
