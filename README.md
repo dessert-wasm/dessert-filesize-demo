@@ -1,9 +1,7 @@
 # Dessert Demo
 
-This toy project allows you to parse YAML into JSON. It is part of the
-[Dessert](#) project. We use it in order to demonstrate how easy it is
-to replace a JavaScript block of your application to a WASM one and improve
-performance at less cost. Please, take a look at [this page](#) if you want to
+This toy project allows you to parse style a size (Usually a file size). It is part of the
+[Dessert](#) project. Please, take a look at [this page](#) if you want to
 know more.
 
 
